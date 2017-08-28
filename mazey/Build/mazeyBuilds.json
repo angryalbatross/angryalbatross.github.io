@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "mazeyBuilds.data.unityweb",
+"asmCodeUrl": "mazeyBuilds.asm.code.unityweb",
+"asmMemoryUrl": "mazeyBuilds.asm.memory.unityweb",
+"asmFrameworkUrl": "mazeyBuilds.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
